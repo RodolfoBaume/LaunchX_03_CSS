@@ -7,4 +7,4 @@ Clonar la página que está en el siguiente enlace [Link del diseño](https://dr
 - Estilos con CSS (Lo más acercado posible, pueden ser otras imágenes, íconos o colores, pero tiene que ser lo más cercano que puedas)
 
 
-El sitio se puede visitar en el siguiente [link] (https://rodolfobaume.github.io/LaunchX_03_CSS/) 
+El sitio se puede visitar en el siguiente [link](https://rodolfobaume.github.io/LaunchX_03_CSS/) 
